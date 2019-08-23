@@ -18,6 +18,9 @@ Here's a Video of the gameplay (click to play):
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 Here's some gifs:
-![alt text](https://www.gamedev.net/uploads/blogs/monthly_09_2016/blogentry-216013-0-63329800-1474314185.gif "Logo Title Text 1")
+
+![alt text](https://www.gamedev.net/uploads/blogs/monthly_09_2016/blogentry-216013-0-63329800-1474314185.gif "First Gif")
+
+![alt text](https://www.gamedev.net/uploads/blogs/monthly_09_2016/blogentry-216013-0-88397800-1474314387.gif "Second Gif")
 
 
