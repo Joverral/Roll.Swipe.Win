@@ -10,3 +10,7 @@ A lot of silly physics in this one, the wheel itself is totally bogus physics, a
 I did learn a lot on just trying to get it up and running on an android SDK and it was in the google play store as a private alpha link, but was delisted for some reason.  I should look into re-upping it, just for fun.
 
 
+Here's a Video of the gameplay.
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=EFnwbIVEqeM
+" target="_blank"><img src="http://img.youtube.com/vi/EFnwbIVEqeM/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
