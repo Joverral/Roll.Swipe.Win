@@ -9,7 +9,7 @@ A lot of silly physics in this one, the wheel itself is totally bogus physics, a
 
 I did learn a lot on just trying to get it up and running on an android SDK and it was in the google play store as a private alpha link, but was delisted for some reason.  I should look into re-upping it, just for fun.
 
-I do have a webgl version [here]( http://joshv.itburns.net/RollingWebGL/)
+I do have a playable webgl version [here]( http://joshv.itburns.net/RollingWebGL/)
 
 Here's a Video of the gameplay (click to play the video):
 
